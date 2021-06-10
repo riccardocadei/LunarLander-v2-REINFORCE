@@ -1,6 +1,6 @@
 # LunarLander-v2-REINFORCE
 
-The repository contains the code for the Final project of Artificial Neural Network (CS-456) course at EPFL during Spring term 2021. 
+The repository contains the code for the Final project of [Artificial Neural Network (CS-456)](https://edu.epfl.ch/coursebook/en/artificial-neural-networks-CS-456) course at [EPFL](https://www.epfl.ch/en/) during Spring term 2021. 
 
 ### Team
 This project is accomplished by:
