@@ -1,11 +1,9 @@
 # LunarLander-v2-REINFORCE
 
-## General Information
-
-The repository contains the code for the Final project of the Artificial Neural Network (CS-456) course at EPFL during Spring term 2021. 
+The repository contains the code for the Final project of Artificial Neural Network (CS-456) course at EPFL during Spring term 2021. 
 
 ### Team
-The project is accomplished by:
+This project is accomplished by:
 - Riccardo Cadei: [@riccardocadei](https://github.com/riccardocadei)
 - Niccolò Polvani: [@nickpolvani](https://github.com/nickpolvani)
 
@@ -22,7 +20,7 @@ We used Policy Gradient approaches (using the REINFORCE rule) to learn the task:
 
 ### Environment
 
-The project has been developed and test using `Google Colab` (see main.ipynb for dependecies setup)
+The project has been developed and test using `Google Colab` (see main.ipynb for dependecies setup).
 
 ### References
 
