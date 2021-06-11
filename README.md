@@ -16,7 +16,13 @@ The agent gets a reward of +100 for landing safely and -100 for crashing. In add
 
 There are two versions of the task: one with discrete controls and one with continuous controls but we focus only work on the discrete version. In the discrete version, the agent can take one of four actions at each time step: [do nothing, fire engines left, fire engines right, fire engines down]. 
 
-We used Policy Gradient approaches (using the REINFORCE rule) to learn the task: a network generates a probability distribution over actions, and is trained to maximize expected future rewards given an observation.
+We use Policy Gradient approaches (using the REINFORCE rule) to learn the task: a network generates a probability distribution over actions, and is trained to maximize expected future rewards given an observation.
+
+### Test
+
+![alt text](https://github.com/riccardocadei/LunarLander-v2-REINFORCE/blob/main/test.gif)
+
+
 
 ### Environment
 
