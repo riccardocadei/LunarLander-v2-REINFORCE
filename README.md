@@ -18,7 +18,9 @@ There are two versions of the task: one with discrete controls and one with cont
 
 We use Policy Gradient approaches (using the REINFORCE rule) to learn the task: a network generates a probability distribution over actions, and is trained to maximize expected future rewards given an observation.
 
-### Test
+### Results
+
+Example of an episode after 3000 epochs of training using REINFORCE + Adaptive Baseline: the rover perfectly land among the 2 flags (Reward>200).
 
 ![alt text](https://github.com/riccardocadei/LunarLander-v2-REINFORCE/blob/main/test.gif)
 
